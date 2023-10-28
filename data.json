@@ -1,0 +1,8 @@
+{
+    "name": "User",
+    "email":"user@mail.com",
+    "hobbies": [
+        "Coding",
+        "Music"
+    ]
+}
